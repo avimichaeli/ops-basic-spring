@@ -1,4 +1,4 @@
-# devops   
+# devops    
 Niv Itzhaky<br>
 https://www.linkedin.com/in/nivitzhaky/<br>
 niv.itzhaky@gmail.com<br>
