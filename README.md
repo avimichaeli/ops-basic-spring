@@ -9,7 +9,7 @@ create your own account <br>
 ## START
 fork https://github.com/handson-academy/ops-basic-spring/ to your own git <br>
 
-### EC2
+### EC2 
 create ec2 instance: <br>
 name->testec2, new keypair-> test,  launch instance <br>
 go to inboud rules-> allow all traffic
@@ -38,7 +38,7 @@ sudo docker logs [containerid]
 sudo docker kill [containerid]
 ```
 
-### GIT
+###  GIT
 attach ssh key to git
 ```
 ssh-keygen
